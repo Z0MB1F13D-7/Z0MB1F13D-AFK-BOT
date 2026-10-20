@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thetoxicverse.progamer.me",
-    "port": 14565,
-    "version": "1.21.1"
+    "ip": "ToxicVerse.aternos.me",
+    "port": 48643,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
